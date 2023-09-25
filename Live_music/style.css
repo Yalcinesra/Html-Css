@@ -1,0 +1,180 @@
+
+body{
+    background-color: black;
+    color: white;
+    
+   
+   
+
+
+}
+.baslik{
+    width: 100%;
+    height: 60vh;
+    background-image: url('./img/background.jpg') ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+    background-position: 60%;
+}
+a{
+    text-decoration: none;
+}
+ul{
+    display: inline;
+}
+li{
+    display: inline-block;
+    padding: 10px;
+}
+.menu{
+    font-family: 'Rubik Beastly', cursive;
+    font-size: 20px;
+   }
+   .menu1:hover{
+    background-color: #ff0078;
+   }
+   .menu2:hover{
+    background-color: #ff0078;
+   }
+   .menu3:hover{                          
+    background-color: #ff0078;
+   }
+   .menu4:hover{
+    background-color: #ff0078;
+   }
+   .menu5:hover{
+    background-color: #ff0078;
+   }
+   .menu6:hover{
+    background-color: #ff0078;
+   }
+   
+
+.mittel{ 
+    text-align: center;
+   
+
+}
+.medium{
+    width: 500px;
+    /* border: 1px solid red; */
+   
+    position: absolute;
+    top: 15%;
+    left: 30%;
+    position: relative;
+}
+.mittel:hover{
+    top: -15px;
+   
+    
+}
+.new{
+    
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    text-transform:uppercase ;
+    font-weight: bold;
+    border-bottom: 2px solid #ff0078;
+   width: 150px;
+   margin: auto;
+   padding-bottom: 10px;
+   
+
+
+}
+.feel{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 25px;
+}
+.feel:hover{
+    color:#ff0078;
+    text-decoration: underline;
+    
+    
+}
+.button{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+     color: white;
+     background-color: #ff0078;
+     border-radius: 15px;
+     padding: 6px;
+     letter-spacing: 3px;
+     border: 1px solid #ff0078;
+     text-align: center;
+     width: 20%;
+     display:block;
+     margin: auto;
+    
+}
+.button:hover{
+    background-color: white;
+    color: #ff0078;
+    
+}
+.icon1{
+    display:inline-block;
+    padding: 30px;
+    background-color: black;
+     width: 350px;
+    height: 100px;
+    text-align: center;
+}
+.music{
+    /* display: block; */
+    margin: auto;
+    background-color: #ff0078;
+    width: 100px;
+    height: 100px;
+    border-radius:50%;
+    font-size: 2rem;
+    /* padding-top: 2rem;
+    box-sizing: border-box; */
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.icon2{
+    display:inline-block;
+    padding: 30px;
+    background-color: black;
+     width: 350px;
+    height: 100px;
+    text-align: center;
+}
+.user{
+    margin: auto;
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    border-radius:50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    font-size: 2rem;           
+}
+.icon3{
+    display:inline-block;
+    padding: 30px;
+    background-color: black;
+     width: 350px;
+    height: 100px;
+    text-align: center;
+}
+.video{
+    margin: auto;
+    background-color:#7ED22A;
+    width: 100px;
+    height: 100px;
+    border-radius:50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    font-size: 2rem;           
+}
+

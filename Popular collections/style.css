@@ -1,0 +1,167 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: #DEE2E7;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    margin: 20px;
+    padding: 10px;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    
+    
+}
+li{
+    margin: 1px;
+    display:inline-block;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 2px 2px  10px black;
+    padding: 5px;
+    text-align: center;
+    }
+    li:hover{
+       background-color: #90ABB7; 
+    }
+   
+    .box11{
+        background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZC0wYGx5KOnPpFDP0QgwmhlqbUoE2AsSGDHhUNLaAAtNByJjfLtH3HDZGN6tgMeuSFKE&usqp=CAU");
+        /* background-repeat: no-repeat; */
+        background-size: cover; 
+    }
+    .box12{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZC0wYGx5KOnPpFDP0QgwmhlqbUoE2AsSGDHhUNLaAAtNByJjfLtH3HDZGN6tgMeuSFKE&usqp=CAU");
+    /* background-repeat: no-repeat; */
+    background-size: cover; 
+}
+    
+    .box13{
+        background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDH-ll9tbqv7kyYkZKM-y-FRu_ZURARr4k1lbqlSrcg2j4B7ki1l-nWg11Z_mMoi920Lw&usqp=CAU");
+        background-size: cover;
+    }
+    .box14{
+        background-image: url("https://images.unsplash.com/photo-1551892589-865f69869476?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE3fHx8ZW58MHx8fHx8&w=1000&q=80");
+        background-size: cover;
+    }
+    .box21{
+        background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD1ZgAHEt-4_4thgiJgfzc2lmjsfdUO7ldrQ6nsWICkibzswDKOabhMxK9PFDJ11Ip_ds&usqp=CAU");
+        background-size: cover;
+    }
+    .box22{
+        background-image: url("https://www.evidero.de/wp-content/uploads/2015/10/naturverbundenheit-lernen-860x484.jpg");
+        background-size: cover;
+
+    }
+    .box23{
+        background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzraui2lO3IZLQRDC_giLSteQohaLl6Wao8yjvRPg9NNa_Aa7i9hx0ujsYtaUG3HDAYcQ&usqp=CAU");
+        background-size: cover;
+
+    }
+    .box24{
+        background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmBdoUhPND-J2TGoiUTRGMkFnw3RqgThN2Uq2giDzKqXzjGYWA2RLRyFP8J8wEfH9R2jo&usqp=CAU");
+        background-size: cover;
+
+    }
+    .box31{
+        background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShuSQBMtPbXbvLmHmMnEBEYfkgNKTDKJE2MA&usqp=CAU");
+        background-size: cover;
+    }
+    .box32{
+        background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHp405rlqDkRa2n5RHCKmGu3xlX2nWx7jUMA&usqp=CAU");
+        background-size: cover;
+    }
+    .box33{
+        background-image: url("https://iqna.ir/files/de/news/2022/8/15/37074_332.jpg");
+        background-size: cover;
+    }
+    .box34{
+        background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRrJpgrkBvvpkIQShCc6f633NFuBHknQmtMw&usqp=CAU");
+        background-size: cover;
+    }
+
+
+
+    .box1, .box2, .box3{
+       
+        margin-top: 30px;
+        margin-left: 20px;       
+        display: inline-block;
+        /* border: 1px solid red; */
+        width: 300px;
+        height: 330px;
+        background-color: white;
+        border-radius: 20px;
+        box-shadow: 2px 2px 10px black;
+        padding: 15px;
+        text-align: center;
+        box-sizing: border-box;
+        
+        
+    }
+    .box11, .box21, .box31{
+        /* border: 1px solid red; */
+      
+        width: 100%;
+        height: 200px;
+        border-radius: 20px;
+        margin-top: 5px;
+        box-shadow: 2px 2px 10px black;
+        
+      
+        /* display: block; */
+        /* box-sizing: border-box; */
+       
+       
+
+
+       
+    }
+    
+     .box12, .box13, .box14,  .box22, .box23, .box24,  .box32, .box33, .box34{
+        /* border: 1px solid red; */
+        width: 23%;
+        height: 60px;
+        border-radius: 10px;
+        box-shadow: 2px 2px 10px black;
+       
+        display: inline-block;
+       
+        margin: 0 10px;
+        margin-top: 10px;
+    }
+    .alt{
+        font-size: 16px;
+        font-weight: bold;
+        font-family: Arial, Helvetica, sans-serif;
+        margin: 10px;
+        text-align: left;
+
+    }
+    .icon{
+        /* border:1px solid red; */
+        display: block;
+        float: right;
+        text-align: right;
+    }
+
+   .box11:active, .box21:active, .box31:active, .box12:active, .box13:active, .box14:active,  .box22:active, .box23:active, .box24:active,  .box32:active, .box33:active, .box34:hover{
+        transform: translateX(20px) scale(1.5);
+    }
+        
+    .copyright{
+        display: flex;
+        justify-content:flex-start;
+        align-items: center;
+        flex-wrap: wrap;
+        /* margin-left: 1rem; */
+        padding: 10px 10px;
+        margin: 2rem;
+    }
+   
+    

@@ -1,0 +1,33 @@
+.inputbox{
+    border: 1px solid grey;
+    border-radius: 5px;
+    
+}
+.form-control{
+    border: none;
+}
+/* .container1{
+    border: 1px solid black;
+    width: 6rem;
+    padding: 3px;
+   
+} */
+.shopbtn{
+    border: none;
+    width: 1.5rem;
+    height: 1.5rem;
+    border-radius: 5px;
+
+
+}
+.containerbox{
+    background-color:rgb(190, 187, 187);
+    width: 600px;
+    
+
+}
+  
+div img{
+   width: 75%;
+   border-radius: 20px; 
+}
