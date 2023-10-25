@@ -25,7 +25,7 @@
 </tr>
 <tr>
 <td align="center">04</td>
-<td><a href=https://github.com/Yalcinesra/Html-Css/tree/main/Home-Furnising">Home-Furnising</a></td>
+<td><a href="https://github.com/Yalcinesra/Javascript-project/tree/main/Home-Furnising">Home-Furnising</a></td>
 <td><a href="https://yalcinesra.github.io/Html-Css/Home-Furnising">Live Demo</a></td>
 </tr>
 <tr>
