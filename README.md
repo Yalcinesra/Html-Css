@@ -31,7 +31,7 @@
 <tr>
 <td align="center">05</td>
 <td><a href="https://github.com/Yalcinesra/Javascript-project/tree/main/Live_music">Live_music</a></td>
-<td><a href="https://yalcinesra.github.io/Javascript-project/Live_music">Live Demo</a></td>
+<td><a href="https://yalcinesra.github.io/Html-Css/Live_music">Live Demo</a></td>
 </tr>
 <tr>
 <td align="center">06</td>
@@ -70,8 +70,8 @@
 </tr>
 <tr>
 <td align="center">13</td>
-<td><a href="https://github.com/Yalcinesra/Javascript-project/tree/main/team1">team1</a></td>
-<td><a href="https://yalcinesra.github.io/Javascript-project/team1">Live Demo</a></td>
+<td><a href="https://github.com/Yalcinesra/Html-Css/tree/main/team1">team1</a></td>
+<td><a href="https://yalcinesra.github.io/Html-Css/team1">Live Demo</a></td>
 </tr>
 
 </tbody>
